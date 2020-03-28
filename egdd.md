@@ -2,16 +2,21 @@
 
 ## Elevator Pitch
 
-*A one sentence pitch for your game. Pretend that your were pitching your game to a executive going to the elevator. You have less than 60 Seconds. Check [this resource](http://www.gameacademy.com/perfecting-indie-games-elevator-pitch/) for more information.*
+You are a Samurai fighting against ninjas, fighting all the ninjas but typing the words on a screen fast enough. If you are too slow you die. This game will teach young kids touch typing skills.
+
 
 ## Influences (Brief)
 
 - *Influence #1*:
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
+  - Fruit Ninja:
+Medium: Phone game
+Explanation: Like in Fruit Ninja, this game requires the player to react fast enough to objects or characters coming at them.
+
 - *Influence #2*:
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
+  -One finger death punch
+Medium: PC game
+Explanation: Enemies come from left and right to hit you and you must click right or left to hit back. This game is about speed and reflexes. We want to make a game about building typing speed.
+
 - *Influence #3*:
   - Medium: *(Television, Games, Literature, Movies, etc.)*
   - Explanation: *In one paragraph or less, explain why this is an influence.*
@@ -20,160 +25,155 @@
 
 *Give a very high-level description of any core gameplay mechanics*
 
-- *Gameplay Mechanic #1*
-- *Gameplay Mechanic #2*
-- *Gameplay Mechanic #3*
-- *Gameplay Mechanic #4*
+- Enemy comes from the left or right to hit you. 
+- Type the correct word or phrase in enough time to hit back 
+- If you get hit you lose hit points and if the git points reach 0 you lose
+
 
 # Learning Aspects
+ ,
+## Learning Domainsvvvvvvvv
 
-## Learning Domains
-
-*Briefly list any and all of the disciplines and learning domains for this subject.*
+Briefly list any and all of the disciplines and learning domains for this subject.
+Basic typing skills.
 
 ## Target Audiences
 
-*Who are your learners?*
+Elementary school students
+Middle school students
 
 ## Target Contexts
 
-*Describe what kinds of formal and informal learning contexts this will be used in (e.g., courses, k-12 computer labs during free time).*
+It can be used at home from people who just want to improve but the main goal is have teachers use it with chromebooks in class.
 
 ## Learning Objectives
 
 *Remember, Learning Objectives are NOT simply topics. They are statements of observable behavior that a learner can do after the learning experience. You cannot observe someone "understanding" or "knowing" something.*
 
-- *Short Name*: *Formal Learning Objective #1*
-- *Short Name*: *Formal Learning Objective #2*
-- *Short Name*: *Formal Learning Objective #3*
+- Typing speed:AT the completion of the game the player will be able to type at least 45 wpm
+- Typing form:The player will be able to type without looking at the keyboard
+
 
 ## Prerequisite Knowledge
 
 *What do they need to know prior to trying this game?*
 
-- *Prerequisite Learning Objective #1*
-- *Prerequisite Learning Objective #2*
+- They need to have a computer and 
+- Must be able to use a keyboard
 
 ## Assessment Measures
 
 *Describe how the learning will be assessed, e.g., pre/post multiple-choice test, or SAT, or some other instrument.*
 
-*If proposing a new instrument, briefly and concisely list some example assessment questions.*
+There will be levels that are designed to be played at a certain speed in order to win. There will also be a counter to calculate the average so the player knows how fast they are going.
 
 # What sets this project apart?
 
 *Give some reasons why this game is not like every other game out there. Whether the learning objective is unique, the gameplay mechanics are new, or what. You should persuade the reader that your game is novel and worthy of development. Consider arguments that would be persuasive to a Venture Capitalist, Teacher, or Researcher. These might be focused on learning needs, too.*
 
-- *Reason #1*
-- *Reason #2*
-- *Reason #3*
-- *Reason #4*
-- *etc.*
+- This game has ninjas in it and the player is a samurai warrior. 
 
 # Player Interaction Patterns and Modes
 
 ## Player Interaction Pattern
 
-*Describe how people play your game, how many players are involved at once, how they interact with the system works, etc.*
+This game is for one player at a time and they have to type words that show up on their screen.
 
 ## Player Modes
 
 *Your game has one or more player modes. Describe each discrete mode, considering things like menus too. Generally describe the transitions between modes too.*
 
-- *Player mode #1*: *Description*
-- *Player mode #2*: *Description*
-- *etc.*
+- Player mode #1: You have survival mode, that makes the player fight infinite ninjas. The goal is to test endurance.
+- Player mode #2: Story mode; has the play through levels that are winnable. The goal is to get to the final boss.
 
 # Gameplay Objectives
 
-- *Primary Objective #1*:
-    - Description: *Description*
-    - Alignment: *Describe how this aligns with one or more learning objectives*
-- *Primary Objective #2*:
-    - Description: *Description*
-    - Alignment: *Describe how this aligns with one or more learning objectives*
-- *etc.*
+- Primary Objective #1: Defeat the enemy ninjas
+Description: the ninjas are going to hit you so hit them back with your typing speed by typing the correct word on screen.
+Alignment: we want to increase the average typing speed 
+- Primary Objective #2: Advance to the next level
+Description: You must defeat all ninjas to advance to the next level
+Alignment: As you advance each level, your typing speed increases
+- Primary Objective #3: Complete All Levels
+Description: Pass all the levels to complete the story mode
+Alignment: Once the player completes the story mode their typing speed is at least 40 wpm
 
 # Procedures/Actions
 
-*Describe the control scheme and what actions a user can take in the game.*
+Let's say there are two ninjas, one on the left and one on the right. One ninja has the word “dog ”and the other “cat”. The player can choose to type cat or dog. When the user types “d” the character will jump to the ninja with the word dog and hit him with his sword. To kill the ninja he must type “og”.
 
 # Rules
 
-*What resources are available to the player that they make use of?  How does this affect gameplay? How are these resources finite?*
+The player will start off with 10 hit points. Some levels will have ninjas that will give a hit point when they are defeated.
 
 # Objects/Entities
 
-*What other things are in the world that you need to design? These may or may not directly translate to actual objects and classes.*
+- Ninja that has its own character, letter, word, sentence, and/or paragraph.
+- Player has a sword and a samurai suit.
+- Virtual keyboard displayed at bottom of screen. 
+- Health bar at the bottom of the screen. 
 
 ## Core Gameplay Mechanics (Detailed)
 
-- *Core Gameplay Mechanic #1*: *Describe in 2 paragraphs or less, along with how it generally works*
-- *Core Gameplay Mechanic #2*: *Describe in 2 paragraphs or less, along with how it generally works*
-- *Core Gameplay Mechanic #3*: *Describe in 2 paragraphs or less, along with how it generally works*
+- Enemy comes from the left or right to hit you: Enemy ninjas are constantly trying to hit you and your character is stationary. They will continuously come at you trying to decrease your health bar. 
+- Type the correct word or phrase in enough time to hit back the enemy: Player must type correctly to make the Ninja disappear. For every letter or character typed incorrectly they receive damage on their health bar. 
+- If you get hit you lose hit points and if the git points reach 0 you lose: Everytime your character is hit your health bar decreases and once it hits zero you lose the round and have to start over the current level
 
-    
 ## Feedback
 
-*Explicitly describe what visual/audio/animation indicators there are that give players feedback on their progress towards their gameplay objectives (and ideally the learning objectives).*
-
-*Describe what longer-term feedback you detect and give that guides the player in their learning and lets them know how they are doing in regards to the learning objectives.*
+Whenever your character is hit, your health bar goes down. 
+When you advance to more levels the number of ninjas increases. 
+When you advance in the game the complexity of the ninjas words and letters increases.
+As you advance in the game your costume slightly changes.
+Once you win all levels you get a golden sword.
 
 # Story and Gameplay
 
 ## Presentation of Rules
 
-*Briefly describe how the player will learn the gameplay mechanics. Avoid using walls of text, since people will not read them. Think instead of natural ways of teaching mechanics iteratively and slowly.*
+The game will give you rules above the virtual keyboard. 
 
 ## Presentation of Content
 
-*Briefly describe how the player will be taught the core material they are meant to learn. Avoid using walls of text, since people will not read them. Think instead of natural ways of teaching material iteratively and slowly.*
+The player has to know how to type and the game helps to improve the skill itself. 
 
 ## Story (Brief)
 
-*The Summary or TL;DR version of below*
+You are a Samurai faced with several ninjas that can only be defeated using your typing skills.  
 
 ## Storyboarding
 
 *Go into as much detail as needs be to visually convey the Dynamics of your game. Be detailed. Create storyboards and freeze frame images that concisely capture important key elements of your game. You are strongly recommended to sketch pictures on paper and embed them here. Be sure make it clear how previously-described mechanics come through in the dynamics.*
 
+
 # Assets Needed
 
 ## Aethestics
 
-*Give a sense of the aesthetics of your game, the spirit and atmosphere. Use descriptive, evocative words that can help the reader understand the emotional response of your game.*
+Depending on the time we have left it will be a blank white background with stick figures as characters.Or it will have detailed pixel art characters with a background that reminds one of ancient Japan.
 
 ## Graphical
 
 - Characters List
-  - *Characters 1*
-  - *Characters 2*
-  - *...*
+- Samurai (main character)
+- Evil Ninjas (enemies)
+- Elite Ninjas(enemies)
+- Health Ninjas(enemise)
 - Textures:
-  - *Texture 1*
-  - *Texture 2*
-  - *...*
+- Stick figures 
 - Environment Art/Textures:
-  - *Environment Texture 1*
-  - *Environment Texture 2*
-  - *...*
-
+- White background 
+- Or Old Japan
 
 ## Audio
 
-
-*Game region/phase/time are ways of designating a particularly important place in the game.*
-
-- Music List (Ambient sound)
-  - *Game region/phase/time*: *Example 1*, *Example 2*
-  - *Game region/phase/time*: *Example 3*, *Example 4*
-  
-*Game Interactions are things that trigger SFX, like character movement, hitting a spiky enemy, collecting a coin.*
-
-- Sound List (SFX)
-  - *Game Interaction*: *Example 1*, *Example 2*
-  - *Game Interaction*: *Example 3*, *Example 4*
-
+Game region/phase/time are ways of designating a particularly important place in the game.
+Music List (Ambient sound)
+General gameplay: Sekiro music 
+Game Interactions are things that trigger SFX, like character movement, hitting a spiky enemy, collecting a coin.
+Sound List (SFX)
+Defeated Ninja: smoke sound
+Taking Damage: “whoosh sound” from stickman fighting games
 
 # Metadata
 
